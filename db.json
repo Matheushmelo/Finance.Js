@@ -1,0 +1,69 @@
+{
+  "transactions": [
+    {
+      "name": "Saldo Anterior",
+      "amount": 6802.66,
+      "id": 1
+    },
+    {
+      "name": "Aluguel",
+      "amount": -900,
+      "id": 2
+    },
+    {
+      "name": "Água",
+      "amount": -82.64,
+      "id": 3
+    },
+    {
+      "name": "Energia",
+      "amount": -107.73,
+      "id": 4
+    },
+    {
+      "name": "Internet",
+      "amount": -250.1,
+      "id": 5
+    },
+    {
+      "name": "Parcela Moto",
+      "amount": -375,
+      "id": 6
+    },
+    {
+      "name": "Parcela Carro",
+      "amount": -605,
+      "id": 7
+    },
+    {
+      "name": "Cartões de Crédito",
+      "amount": -2611.01,
+      "id": 8
+    },
+    {
+      "name": "Banco do Brasil",
+      "amount": -712.09,
+      "id": 9
+    },
+    {
+      "name": "Havan",
+      "amount": -93.69,
+      "id": 10
+    },
+    {
+      "name": "Conta Celular",
+      "amount": -1.22,
+      "id": 11
+    },
+    {
+      "name": "Seguro Carro",
+      "amount": -172.52,
+      "id": 12
+    },
+    {
+      "name": "Outros",
+      "amount": -181.07,
+      "id": 13
+    }
+  ]
+}
